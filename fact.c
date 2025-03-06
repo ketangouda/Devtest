@@ -11,6 +11,6 @@ void fact() {
         number--;
     }
 
-    printf("Factorial is: %d\n", factorial);
+    printf("Factorial is: %d\n\n", factorial);
 //    return 0;
 }
