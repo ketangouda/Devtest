@@ -13,4 +13,6 @@ void fact() {
 
     printf("Factorial is: %d\n", factorial);
 //    return 0;
+
+// testing slave
 }
